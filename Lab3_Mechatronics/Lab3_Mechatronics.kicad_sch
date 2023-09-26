@@ -1553,7 +1553,7 @@
     (property "Reference" "R1" (at 46.99 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "220" (at 46.99 43.18 0)
+    (property "Value" "470" (at 46.99 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 45.466 42.164 90)
