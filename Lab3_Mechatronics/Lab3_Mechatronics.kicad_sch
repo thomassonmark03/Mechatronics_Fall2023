@@ -2076,7 +2076,7 @@
     (property "Reference" "R2" (at 90.17 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7k" (at 90.17 43.18 0)
+    (property "Value" "47k" (at 90.17 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 88.646 42.164 90)
