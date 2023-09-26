@@ -1334,7 +1334,7 @@
     (uuid 4fc5dd3e-8eb9-4168-b1d0-a6d55c31e4e1)
   )
 
-  (text_box "Note: Your backemf voltage here will not be negative, instead it will appear as being above the 12V voltage source"
+  (text_box "Note: Your backemf voltage on the oscilloscope will not be negative, instead it will appear as a voltage above the 10V voltage source."
     (at 72.39 82.55 0) (size 36.83 10.16)
     (stroke (width 0) (type default))
     (fill (type none))
@@ -1673,7 +1673,7 @@
     (property "Reference" "V3" (at 31.75 101.6 0)
       (effects (font (size 1.27 1.27) (color 0 0 1 1)) (justify left))
     )
-    (property "Value" "9" (at 31.75 104.14 0)
+    (property "Value" "10" (at 31.75 104.14 0)
       (effects (font (size 1.27 1.27) (color 0 0 1 1)) (justify left))
     )
     (property "Footprint" "" (at 36.83 104.14 0)
