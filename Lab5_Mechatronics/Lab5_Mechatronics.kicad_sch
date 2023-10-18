@@ -980,7 +980,7 @@
     (property "Reference" "R1" (at 71.12 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100k" (at 71.12 34.29 0)
+    (property "Value" "1Meg" (at 71.12 34.29 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 69.596 33.274 90)
