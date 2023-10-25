@@ -568,7 +568,7 @@
     (uuid 023a6c02-af2b-45cb-8704-5eed0359419a)
   )
 
-  (label "ADC_GPI" (at 163.83 52.07 0) (fields_autoplaced)
+  (label "GPI_ADC" (at 163.83 52.07 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4dd2c2a1-d735-4282-a04d-71f3003fd904)
   )
